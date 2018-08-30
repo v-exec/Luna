@@ -1,0 +1,22 @@
+name: H-09
+
+images: july 2018>h-09>1, july 2018>h-09>2, july 2018>h-09>3
+
+tags: july 2018, text heavy
+
+title: H-09
+
+author: @[Codrin Tablan Negrei>https://twitter.com/CodrinTablan]
+
+content:
+
+H-09 is a pneumatic-powered prosthetic arm meant to replace a patient's missing limb while maintaining previous functionality, and in some cases enhance it. In the current ninth revision, the arm is fully modular, meaning that the user can decouple the elbow, wrist and hand modules separately, and replace them with other parts.
+
++
++
+The arm also comes with a mini-storage compartment on the right-hand side of the elbow, where users can store spare components such as screws, plates, or small maintenance equipment. As opposed to its predecessors, the arm doesn't need electricity to maintain usability. Instead, it relies on the mini gas canisters which power it pneumatically, making it very suitable for heavy-duty tasks as it is not prone to circuitry failure. The outer shell is made of a tempered alloy that can easily withstand the weight of a standard vehicle.
+
++
++
+
+Users will need to purchase an E-01 arm socket to ensure the fluidity of the neurotransmission.

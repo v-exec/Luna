@@ -1,0 +1,30 @@
+name: ARK Simulation
+
+images: june 2018>ark simulation>1
+
+tags: june 2018, 2 columns
+
+title: ARK Simulation
+
+content:
+
+_[@[vi>https://v-os.ca]]
+
++
++
+
+An ARK Simulation is a custom instance of a digital Paradise for a select body of Automata. The ARK Simulation was created in an effort to conform reality to the Automata's new protocols of belief.
+
++
++
+
+Without persistent maintenance, hardware begins to fail. Spawn Nodes, the modules necessary for an ARK Simulation's functionality, become defective. Most importantly, if too few nodes remain, and the Dentatsuna acting as the hub of the simulation fails, then the simulation will be terminated indefinitely. Whether the Automata know this, or have deliberately excluded it from their curiosities, is unknown.
+
++
++
+
+Full report on the @[ARK Simulation>https://v-os.ca/ARK%20Simulation].
++
+Additional documentation on @[Dentatsuna>https://v-os.ca/dentatsuna].
++
+Data on the @[Automata>https://v-os.ca/Automata].

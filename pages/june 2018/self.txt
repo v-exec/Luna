@@ -1,0 +1,16 @@
+name: Self
+
+images: june 2018>self>1, june 2018>self>2, june 2018>self>3, june 2018>self>4, june 2018>self>5
+
+tags: june 2018, text heavy header
+
+title: Self
+
+content:
+
+_[Nullkey]
+
++
++
+
+A look into ourselves reveals nothing more than a constant, ungrippable being, ever-changing, contrasting our belief of a fixed self. Look into your darkness, you will see it written all over you.

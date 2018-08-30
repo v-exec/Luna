@@ -1,0 +1,29 @@
+name: Hydrant
+
+images: april 2018>hydrant>1, april 2018>hydrant>2, april 2018>hydrant>3
+
+tags: april 2018, text heavy
+
+title: Hydrant
+
+content:
+
+This is art piece.
+
+%[]
+
+Text speaking about art piece.
+
+%[]
+
+![Title!]
+
+*[bold!], _[beautiful]
+
++
+
+?[quote!]
+
+~[some code]
+
+@[Links!>https://v-os.ca]

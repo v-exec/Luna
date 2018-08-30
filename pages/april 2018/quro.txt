@@ -1,0 +1,31 @@
+name: Quro
+
+images: <iframe class="embedded-wide" src="https://player.vimeo.com/video/204635899" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+embed: true
+
+tags: april 2018, 2 columns
+
+title: Quro
+
+content:
+
+This is art piece.
+
+%[]
+
+Text speaking about art piece.
+
+%[]
+
+![Title!]
+
+*[bold!], _[beautiful]
+
++
+
+?[quote!]
+
+~[some code]
+
+@[Links!>https://v-os.ca]

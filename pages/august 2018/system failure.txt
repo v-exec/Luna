@@ -1,0 +1,23 @@
+name: System Failure
+
+images: august 2018>system failure>1
+
+tags: august 2018, text heavy 2 columns
+
+title: System Failure
+
+author: @[Valerie>https://www.valeriebourdon.com/]
+
+content:
+
+*[Documentation:] Project S.Y.N., led by a team of publicly funded scientists, Missouri USA. Completion of dedicated lab complete circa 2001. Goal: to create a cognitive symbiosis between man and machine.
+
++
++
+
+2007, Government funding cut and the project forcefully terminated due to “inhumane research methods (sic)” (_[St. Louis Post-Dispatch, 2008]). Our research shows that scientists involved in the project were separated and displaced. Public interest slowly faded, lab has been abandoned since.
+
++
++
+
+Our team visited the S.Y.N. facilities in April 2018 to the inspect architectural integrity following power and water shutdown in 2013. We have come across extensive documentation by one research lead dated post-project termination, pseudonym “A”, who seemed particularly obsessed over the incomplete results of the project and disappeared soon after its termination. We believe we have now located the body of “A”, hooked into S.Y.N. Authorities contacted, awaiting their arrival at the facility.

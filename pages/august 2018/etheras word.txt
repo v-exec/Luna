@@ -1,0 +1,18 @@
+name: Ethera's Word
+
+images: august 2018>etheras word>1
+
+tags: august 2018, wide
+
+title: Ethera's Word
+
+author: @[vi>https://v-os.ca]
+
+content:
+
+_[It is not your burden to remember that which even the universe has forgotten.]
+
++
++
+
+@[Full story found here.>https://v-os.ca/ethera's%20word]
