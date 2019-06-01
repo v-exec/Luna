@@ -153,6 +153,13 @@ a:hover {
 	width: 100%;
 }
 
+.column-image {
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
 /*-----------LAYOUT UNIQUE-----------*/
 
 /*
@@ -175,7 +182,7 @@ medium + medium
 .right-column-extra-large {
 	margin: 0;
 	line-height: 0px;
-	height: auto;
+	height: 100%;
 }
 
 .left-column-extra-small,

@@ -1,6 +1,6 @@
 var pieceDimension = 900;
 var columns = 3;
-var rows = 1;
+var rows = 3;
 var margins = 120;
 var padding = 0;
 

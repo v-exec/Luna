@@ -2,17 +2,13 @@ name: Alea Triplicata
 
 images: june 2018>alea triplicata>1, june 2018>alea triplicata>2, june 2018>alea triplicata>3
 
-tags: june 2018, 2 columns triple
+tags: june 2018, 2 columns triple, archive
 
 title: Alea Triplicata
 
+author: @[Codrin Tablan Negrei>https://www.behance.net/kodrintxps1ecf]
+
 content:
-
-_[@[Codrin Tablan Negrei>https://www.behance.net/kodrintxps1ecf]]
-
-+
-+
-
 Alea Triplicata, otherwise known as the "hazardous cube", is a self replicating mechanical cell organism. It simultaneously shapes itself and seeks to connect with other neighboring cells. The piece in question portrays the Alea in its own process of self-replication through 3 stages, the mechanism, the construction and the completion.
 
 +

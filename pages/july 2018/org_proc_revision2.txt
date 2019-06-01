@@ -2,7 +2,7 @@ name: org_proc_revision2
 
 images: july 2018>org_proc_revision2>1, july 2018>org_proc_revision2>2, july 2018>org_proc_revision2>3, july 2018>org_proc_revision2>4, july 2018>org_proc_revision2>5, july 2018>org_proc_revision2>6, july 2018>org_proc_revision2>7
 
-tags: july 2018, 2 columns
+tags: july 2018, 2 columns, archive
 
 title: org_proc_revision2
 

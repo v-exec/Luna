@@ -2,16 +2,13 @@ name: ARK Simulation
 
 images: june 2018>ark simulation>1
 
-tags: june 2018, 2 columns
+tags: june 2018, 2 columns, archive
 
 title: ARK Simulation
 
+author: @[vi>https://v-os.ca]
+
 content:
-
-_[@[vi>https://v-os.ca]]
-
-+
-+
 
 An ARK Simulation is a custom instance of a digital Paradise for a select body of Automata. The ARK Simulation was created in an effort to conform reality to the Automata's new protocols of belief.
 

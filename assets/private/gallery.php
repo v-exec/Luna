@@ -50,15 +50,16 @@
 	<ul id="board">
 	<div id="top">
 		<img id="logo" src="../assets/ui/logo.svg"></img>
-		<span>Luna · A monthly exhibit showcasing up to 9 pieces,<br>hosted by <i><a href="https://v-os.ca/lucency">Lucency</a></i>.<br><br>This month's theme: <i><b>Progress</b></i>.</span>
+		<span>Luna · A monthly exhibit showcasing up to 9 pieces.<br><br></span>
 	</div>
 
 		<?php
 			for ($i = 0; $i < sizeof($artifacts); $i++) {
 				$art = $artifacts[$i];
-				if ($art->hasTag('september 2018')) {
+				if ($art->hasTag('archive')) {
 					echo '<li class="piece">';
 					if ($art->hasTag('2 columns')) twoColumns($art);	
+					else if ($art->hasTag('2 columns text heavy')) twoColumnsTextHeavy($art);
 					else if ($art->hasTag('2 columns double')) twoColumnsDouble($art);
 					else if ($art->hasTag('2 columns triple')) twoColumnsTriple($art);
 					else if ($art->hasTag('text heavy')) textHeavy($art);
@@ -79,6 +80,19 @@
 </html>
 
 <?php
+
+//2 columns text heavy (1 image)
+function twoColumnsTextHeavy($art) {
+	echo '<div class="left-column-large">';
+	echo '<div class="column-image" style="background-image: url('. $art->attributes['images'][0] .')"></div>';
+	echo '</div>';
+
+	echo '<div class="right-column-small">';
+		echo '<span class="title">'. $art->attributes['title'] .'</span>';
+		echo '<span class="author">'. $art->attributes['author'] . '</span>';
+		echo $art->attributes['content'];
+	echo '</div>';
+}
 
 //2 columns (7 images)
 //simple, organized, generic

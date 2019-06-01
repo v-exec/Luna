@@ -2,16 +2,13 @@ name: Core
 
 images: june 2018>core>1, june 2018>core>2, june 2018>core>3, june 2018>core>4
 
-tags: june 2018, 2 columns double
+tags: june 2018, 2 columns double, archive
 
 title: Core
 
+author: Anonymous
+
 content:
-
-_[Anonymous]
-
-+
-+
 
 Core is a reactor isolated in a completely sterile environment stored away from the elements, made evident by the polished coating on its rings. The goal of this venture was to create a device capable of harnessing and processing the energy of rare metals. Its casing is made up of a highly reflective material meant to contain the light rays emitted from the core when operational. When in motion, the rings spin at high-speeds in order to amplify the energy emitted from the core. That energy would then be transferred outside its own shell. It is the process of energy creation. 
 

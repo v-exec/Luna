@@ -136,6 +136,17 @@ function setup() {
 			});
 		}
 
+		var columnImages = document.getElementsByClassName("column-image");
+
+		for (let i = 0; i < columnImages.length; i++) {
+			columnImages[i].addEventListener("mousedown", function(e) {
+				if (!openedImage && e.button === 0) {
+					var u = columnImages[i].style.backgroundImage;
+					focus(u.substring(4, u.length - 1));
+				}
+			});
+		}
+
 		var smallImages = document.getElementsByClassName("small-image");
 
 		for (let i = 0; i < smallImages.length; i++) {

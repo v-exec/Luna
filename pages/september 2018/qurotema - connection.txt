@@ -2,7 +2,7 @@ name: Qurotema - Connection
 
 images: september 2018>qurotema - connection>1, september 2018>qurotema - connection>2, september 2018>qurotema - connection>3, september 2018>qurotema - connection>4
 
-tags: september 2018, collection
+tags: september 2018, collection, archive
 
 title: Qurotema - Connection
 

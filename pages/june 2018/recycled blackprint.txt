@@ -2,17 +2,13 @@ name: Recycled Blackprint
 
 images: june 2018>recycled blackprint>1
 
-tags: june 2018, 2 columns
+tags: june 2018, 2 columns, archive
 
 title: Recycled Blackprint
 
+author: @[Valerie>https://www.valeriebourdon.com/]
+
 content:
-
-_[@[Valerie>https://www.valeriebourdon.com/]]
-
-+
-+
-
 Sometimes the most difficult part of creation is curating which part of ourselves we will present. It can be embarassing, awkward, vulnerable, and inconvenient, and despite that, we persist. Communication is worth it, it seems.
 
 +

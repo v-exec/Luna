@@ -2,7 +2,7 @@ name: Silence of Stones
 
 images: august 2018>silence of stones>1, august 2018>silence of stones>2, august 2018>silence of stones>3
 
-tags: august 2018, 2 columns triple
+tags: august 2018, 2 columns triple, archive
 
 title: Silence of Stones
 

@@ -2,7 +2,7 @@ name: System Failure
 
 images: august 2018>system failure>1
 
-tags: august 2018, text heavy 2 columns
+tags: august 2018, 2 columns text heavy, archive
 
 title: System Failure
 
@@ -10,12 +10,7 @@ author: @[Valerie>https://www.valeriebourdon.com/]
 
 content:
 
-*[Documentation:] Project S.Y.N., led by a team of publicly funded scientists, Missouri USA. Completion of dedicated lab complete circa 2001. Goal: to create a cognitive symbiosis between man and machine.
-
-+
-+
-
-2007, Government funding cut and the project forcefully terminated due to “inhumane research methods (sic)” (_[St. Louis Post-Dispatch, 2008]). Our research shows that scientists involved in the project were separated and displaced. Public interest slowly faded, lab has been abandoned since.
+Project S.Y.N., led by a team of publicly funded scientists, Missouri USA. Completion of dedicated lab complete circa 2001. Goal: to create a cognitive symbiosis between man and machine. 2007, Government funding cut and the project forcefully terminated due to “inhumane research methods (sic)” (_[St. Louis Post-Dispatch, 2008]). Our research shows that scientists involved in the project were separated and displaced. Public interest slowly faded, lab has been abandoned since.
 
 +
 +
